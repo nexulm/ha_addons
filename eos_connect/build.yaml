@@ -11,6 +11,6 @@ args:
 labels:
   org.opencontainers.image.title: "EOS Connect"
   org.opencontainers.image.description: "EOS Connect Add-on"
-  org.opencontainers.image.source: "https://github.com/ohAnd/ha_addons"
-  org.opencontainers.image.authors: "ohAnd"
+  org.opencontainers.image.source: "https://github.com/nexulm/ha_addons"
+  org.opencontainers.image.authors: "nexulm"
   org.opencontainers.image.licenses: "MIT"
