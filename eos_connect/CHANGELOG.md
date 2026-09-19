@@ -1,3 +1,8 @@
+## 0.3.39
+
+- Fix Home Assistant history fallback for LOAD-IF when historical API requests return empty results.
+- Pin EOS Connect to the corresponding history fallback fix.
+
 ## **Version 0.3.38** published on 2026-09-05
 
 ### MAJOR FEATURES
