@@ -1,3 +1,6 @@
+## 0.3.40
+- Update EOS Connect with the Home Assistant LOAD-IF history fallback fix.
+
 ## 0.3.39
 
 - Fix Home Assistant history fallback for LOAD-IF when historical API requests return empty results.
