@@ -1,3 +1,8 @@
+## 0.3.41
+
+- Fix Home Assistant history fallback caching for LOAD-IF.
+- Retry empty historical Home Assistant responses with an end time at the current time.
+
 ## 0.3.40
 - Update EOS Connect with the Home Assistant LOAD-IF history fallback fix.
 
