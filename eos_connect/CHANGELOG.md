@@ -1,3 +1,8 @@
+## 0.3.48
+- Release optimized Home Assistant load profile retrieval.
+- Prefetch complete days and reuse cached Home Assistant history/statistics data for hourly load profile generation.
+- Avoid repeated hourly Home Assistant history requests.
+
 ## 0.3.47
 - Reduce Home Assistant load profile request volume by prefetching complete days instead of requesting each hourly interval separately.
 - Remove the current-time history fallback to prevent unnecessarily large Home Assistant history requests.
