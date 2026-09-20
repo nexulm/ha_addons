@@ -1,3 +1,7 @@
+## 0.3.42
+- Improve Home Assistant history fallback for LOAD-IF on empty or timed-out history requests.
+- Cache successfully retrieved history data to avoid repeated Home Assistant API requests.
+
 ## 0.3.41
 
 - Fix Home Assistant history fallback caching for LOAD-IF.
