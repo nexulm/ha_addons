@@ -1,3 +1,6 @@
+## 0.3.49
+- Log hourly Home Assistant statistic timestamps for LOAD-IF diagnostics.
+
 ## 0.3.48
 - Release optimized Home Assistant load profile retrieval.
 - Prefetch complete days and reuse cached Home Assistant history/statistics data for hourly load profile generation.
