@@ -1,3 +1,6 @@
+## 0.3.51
+- Fix Home Assistant load profile fallback when historical data is available but contains zero-consumption intervals.
+
 ## 0.3.50
 - Fix Home Assistant hourly statistics at the end-of-day boundary.
 
