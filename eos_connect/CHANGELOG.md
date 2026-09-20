@@ -1,3 +1,7 @@
+## 0.3.46
+- Fix timezone handling for Home Assistant Recorder statistics fallback.
+- Prevent repeated LOAD-IF warnings for individual missing history intervals.
+
 ## 0.3.45
 - Add Home Assistant Recorder statistics fallback for LOAD-IF when history data is unavailable.
 - Use 5-minute short-term statistics with hourly long-term statistics as fallback.
