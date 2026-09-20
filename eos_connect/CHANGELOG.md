@@ -1,3 +1,6 @@
+## 0.3.50
+- Fix Home Assistant hourly statistics at the end-of-day boundary.
+
 ## 0.3.49
 - Log hourly Home Assistant statistic timestamps for LOAD-IF diagnostics.
 
