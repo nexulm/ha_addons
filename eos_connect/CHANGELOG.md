@@ -1,3 +1,7 @@
+## 0.3.45
+- Add Home Assistant Recorder statistics fallback for LOAD-IF when history data is unavailable.
+- Use 5-minute short-term statistics with hourly long-term statistics as fallback.
+
 ## 0.3.44
 - Fix Home Assistant history fallback crash when historical data is initially empty.
 - Initialize historical data before Home Assistant history fallback processing.
