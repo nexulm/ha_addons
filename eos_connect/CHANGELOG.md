@@ -1,5 +1,5 @@
-## 0.3.52
-- Fix Home Assistant load profile handling for available historical statistics.
+## 0.3.53
+- Fix Home Assistant load profile history handling at statistics boundaries and cache availability.
 
 ## 0.3.51
 - Fix Home Assistant load profile fallback when historical data is available but contains zero-consumption intervals.
