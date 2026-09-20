@@ -1,3 +1,7 @@
+## 0.3.44
+- Fix Home Assistant history fallback crash when historical data is initially empty.
+- Initialize historical data before Home Assistant history fallback processing.
+
 ## 0.3.43
 - Improve Home Assistant history fallback for LOAD-IF on empty or timed-out history requests.
 - Cache successfully retrieved history data to avoid repeated Home Assistant API requests.
