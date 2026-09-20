@@ -1,3 +1,8 @@
+## 0.3.47
+- Reduce Home Assistant load profile request volume by prefetching complete days instead of requesting each hourly interval separately.
+- Remove the current-time history fallback to prevent unnecessarily large Home Assistant history requests.
+- Cache Home Assistant history and Recorder statistics data for local hourly load profile processing.
+
 ## 0.3.46
 - Fix timezone handling for Home Assistant Recorder statistics fallback.
 - Prevent repeated LOAD-IF warnings for individual missing history intervals.
