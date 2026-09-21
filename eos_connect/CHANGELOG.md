@@ -1,3 +1,6 @@
+## 0.3.59
+- Fix final Home Assistant load profile hour when the 23:00 statistics bucket has no explicit 00:00 boundary.
+
 ## 0.3.58
 - Fix Home Assistant load profile handling when a complete historical comparison day is missing.
 
