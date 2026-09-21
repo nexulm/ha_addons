@@ -1,3 +1,9 @@
+## 0.3.54
+- Add debug logging for Home Assistant household load calculation.
+
+## 0.3.53
+- Fix Home Assistant load profile history handling at statistics boundaries and cache availability.
+
 ## 0.3.53
 - Fix Home Assistant load profile history handling at statistics boundaries and cache availability.
 
