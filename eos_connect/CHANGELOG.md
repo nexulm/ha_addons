@@ -1,3 +1,6 @@
+## 0.3.58
+- Fix Home Assistant load profile handling when a complete historical comparison day is missing.
+
 ## 0.3.57
 - Fix Home Assistant load profile handling when a complete historical comparison day is missing.
 
